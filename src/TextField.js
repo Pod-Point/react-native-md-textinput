@@ -41,8 +41,7 @@ export default class TextField extends Component {
 			onBlur,
 			onChangeText,
 			value,
-			dense,
-			...props
+			dense
 		} = this.props;
     return (
       <View style={dense ? styles.denseWrapper : styles.wrapper} ref="wrapper">
