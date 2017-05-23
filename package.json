@@ -1,5 +1,5 @@
 {
-  "name": "@pod-point-open-source/react-native-md-textinput",
+  "name": "@pod-point/react-native-md-textinput",
   "version": "1.9.2",
   "description": "React Native TextInput styled with Material Design.",
   "main": "lib/index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pod-Point-Open-Source/react-native-md-textinput.git"
+    "url": "git+https://github.com/Pod-Point/react-native-md-textinput.git"
   },
   "keywords": [
     "react-native",
@@ -19,11 +19,11 @@
     "design"
   ],
   "bugs": {
-    "url": "https://github.com/Pod-Point-Open-Source/react-native-md-textinput/issues"
+    "url": "https://github.com/Pod-Point/react-native-md-textinput/issues"
   },
   "author": "POD Point",
   "license": "MIT",
-  "homepage": "https://github.com/Pod-Point-Open-Source/react-native-md-textinput#readme",
+  "homepage": "https://github.com/Pod-Point/react-native-md-textinput#readme",
   "devDependencies": {
     "babel-cli": "^6.6.5",
     "babel-plugin-syntax-flow": "^6.5.0",
